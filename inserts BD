@@ -10,16 +10,16 @@ insert into tbl_software values (null, 'Adobe Reader','75');
 insert into tbl_software values (null, 'Team Viewer','20');
 insert into tbl_software values (null, 'Skype','44');
 
-insert into tbl_usuario values (null, '1234567','pedro@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/homem1.png','Pedro Oliveira','1234','Infraestrutura');
-insert into tbl_usuario values (null, '1234568','rogerio@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/homem2.png','Rogerio Pereira','1234','Desenvolvimento');
-insert into tbl_usuario values (null, '1234569','rodrigo@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/homem3.png','Rodrigo Sayuri','1234','RH');
-insert into tbl_usuario values (null, '1234570','diogo@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/homem4.png','Diogo Moura','1234','Financeiro');
-insert into tbl_usuario values (null, '1234571','jose@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/homem5.png','Jose Moraes','1234','Desenvolvimento');
-insert into tbl_usuario values (null, '1234572','graziele@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/mulher1.png','Graziele Taglioni','1234','Presidencia');
-insert into tbl_usuario values (null, '1234573','beatriz@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/mulher2.png','Beatriz Correa','1234','Infraestrutura');
-insert into tbl_usuario values (null, '1234574','vanessa@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/mulher3.png','Vanessa Faria','1234','RH');
-insert into tbl_usuario values (null, '1234575','marina@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/mulher4.png','Marina Yumi','1234','Marketing');
-insert into tbl_usuario values (null, '1234576','regina@itau.com','https://github.com/TAYARNA/Cursojava/blob/master/mulher5.png','Regina Rodrigues','1234','Financeiro');
+insert into tbl_usuario values (null, '1234567','pedro@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/homem1.png','Pedro Oliveira','1234','Infraestrutura');
+insert into tbl_usuario values (null, '1234568','rogerio@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/homem2.png','Rogerio Pereira','1234','Desenvolvimento');
+insert into tbl_usuario values (null, '1234569','rodrigo@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/homem3.png','Rodrigo Sayuri','1234','RH');
+insert into tbl_usuario values (null, '1234570','diogo@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/homem4.png','Diogo Moura','1234','Financeiro');
+insert into tbl_usuario values (null, '1234571','jose@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/homem5.png','Jose Moraes','1234','Desenvolvimento');
+insert into tbl_usuario values (null, '1234572','graziele@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/mulher1.png','Graziele Taglioni','1234','Presidencia');
+insert into tbl_usuario values (null, '1234573','beatriz@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/mulher2.png','Beatriz Correa','1234','Infraestrutura');
+insert into tbl_usuario values (null, '1234574','vanessa@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/mulher3.png','Vanessa Faria','1234','RH');
+insert into tbl_usuario values (null, '1234575','marina@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/mulher4.png','Marina Yumi','1234','Marketing');
+insert into tbl_usuario values (null, '1234576','regina@itau.com','https://raw.githubusercontent.com/TAYARNA/Cursojava/master/mulher5.png','Regina Rodrigues','1234','Financeiro');
 
 		
 
