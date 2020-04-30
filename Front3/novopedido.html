@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <script type="text/javascript" src="novopedido.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+    <button type="button" class="btn btn-info"  onclick="logout();">logout</button>
+    <body onload="LoadPage();">
+        <form class="form">
+        <h3 class="title"> Novo Pedido </h3>
+
+        <div id="listasM"></div>
+        <div id="listasw"></div>
+
+        <li></li>
+        <div class="card-group">
+            <label>Observações</label>
+            <input type="text" name="Observacoes" id=txtObs>
+        </div>
+
+        <div class="card-group">
+            <li></li>
+        <button type="button" onclick="confirmar();">Confirmar</button>
+        </div>
+        </form>
+    </body>
+</html>
