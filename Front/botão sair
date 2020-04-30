@@ -1,0 +1,5 @@
+<div class="col-3">
+                <button type="button" onclick="sair();">Sair</button>
+</div>
+
+<script type="text/javascript" src="funcsair.js"></script>
