@@ -1,0 +1,33 @@
+body{
+    background-color: #f0f0f0;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.text-center{
+    color: #FF4500;
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container{
+    background-color: white;
+    height: 80%;
+    border-radius:20px;
+}
+
+#erroMsg{
+    color:RED;
+    visibility: hidden;
+}
+
+.btn{
+    background-color: #FF4500;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    border: 0px;
+    outline: 0;
+}
