@@ -112,17 +112,12 @@ function confirmar(){
                 'Content-Type': 'application/json'
         }
     }
-     fetch("http://localhost:8080/pedido/novo",cabecalho)
-        .then(res => res.json() )  
-        .then(res => {                    
-            window.alert("SALVOOOU");  
-        })
-        .catch(err=>{        
-            console.log(err);
-            window.alert("BAAAAM");
-        });
+    fetch('http://localhost:8080/pedido/novo',cabecalho)
+    .then(res => res.json())
+    .then(res => {
+         alert("SUCESSO! PEDIDO NUMERO "+res.numPedido);
+    })
+    .catch(err => {
+        alert(" erro ao inserir novo pedido!");
+    })
 }
-
-
-
-
