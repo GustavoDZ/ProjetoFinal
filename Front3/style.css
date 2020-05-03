@@ -54,22 +54,17 @@ body{
     color: #FF4500;
 }
 
-#erroMsg{
-    color:RED;
-    visibility: hidden;
-}
-
 .row{
     font-family: sans-serif;
     padding-top: 10px;
-    padding-bottom: 10px;
-    
+    padding-bottom: 10px;  
 }
 
 li {
     display: inline-block;
     margin: 5px;
 }
+
 .btn{
     background-color: #FF4500;
     border-radius: 10px;
