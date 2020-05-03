@@ -10,8 +10,8 @@ var fragmentoPerfil = '<h3> {{NOME}} </h3>' +
                       '<hr>';
 var fragmentoFoto   = '<img src="{{LINKFOTO}}" width="100%">';
 var fragmentoPedido = '<div class="col-12">'+
-                         ' {{DATAPEDIDO}} {{NUMPEDIDO}} {{OBSERVACOES}}'+
-                      '</div>';
+                        ' <a href="detalhepedido.html?num={{NUMPEDIDO}}"> {{DATAPEDIDO}} {{OBSERVACOES}}</a>'+
+                    '</div>';
 
 
 function novoPedido(){
